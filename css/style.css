@@ -1,0 +1,25 @@
+
+
+
+body {
+  background-color: #e1f2fb;
+
+}
+
+hr {
+  background-color: #e1f2fb; border-style: none; border-top: 4px dotted #aaaaaa;
+   width: 6%;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: sans-serif;
+}
+h3 {
+  color: #66BFBF;
+  font-family: monospace
+}
+
+img {
+   border-radius: 75px;
+}
